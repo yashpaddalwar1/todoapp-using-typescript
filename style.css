@@ -1,0 +1,40 @@
+body{
+    font-family: 'Abril Fatface', cursive;
+}
+
+.bg{
+    font-family: 'Abril Fatface', cursive;
+    background-color: cornsilk;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+.cont{
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+    background-color: black;
+    padding: 40px;
+    text-align: center;
+    justify-content: center;
+}
+
+.inp{
+    background-color: black;
+    color:blanchedalmond ;
+    border-radius: 10px;
+    border: 1px solid;
+    border-color: aliceblue;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-align: center;
+    justify-content: center;
+    margin-left: 450px;
+    width: 400px;
+}
+
+.inpu{
+    background-color: black;
+    color:black;
+}
+
